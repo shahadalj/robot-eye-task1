@@ -1,2 +1,3 @@
-# robot-eye-task1
-robot eye using tinker card
+# Smart-Methods-tasks
+The first task robot eye using Tinkercard
+
